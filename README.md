@@ -67,7 +67,7 @@
 ---
 
 ## 🧩 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=sandeepgope19&color=blue)
 
 ---
 
