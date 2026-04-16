@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sandeep Gope</h1>
+<h3 align="center">🚀 Trainee Test Engineer | Automation Enthusiast | Quality First Mindset</h3>
 
-<!--
-**sandeepgope19/sandeepgope19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 👨‍💻 Working as **Trainee Test Engineer**
+- 🔍 Skilled in **Manual Testing, Automation Testing & API Testing**
+- 🌱 Currently learning **Advanced Selenium Frameworks**
+- 🎯 Goal: Become a **Top SDET Engineer**
+- ⚡ Fun Fact: I enjoy finding bugs more than writing code 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,selenium,git,github" />
+</p>
+
+### 🧪 Testing Skills
+- Manual Testing  
+- Automation Testing (Selenium + TestNG)  
+- API Testing (Postman)  
+- Cross-Browser Testing  
+- Page Object Model (POM)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 E-Commerce Automation Framework
+- Built using **Selenium + TestNG**
+- Supports **Cross-Browser Testing**
+- Implemented **Page Object Model**
+- Scalable and reusable framework  
+
+### 🔹 AI Heat Transfer Prediction System
+- Developed using **Bi-LSTM Neural Network**
+- Built interactive **Streamlit Dashboard**
+- Data preprocessing & visualization  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepgope19&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepgope19&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepgope19&theme=tokyo-night)](https://github.com/sandeepgope19)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sandeep-gope-3b7a52296/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
+<a href="mailto:sandeepgope19@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🧩 Profile Views
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+⭐️ *"Quality is never an accident; it is always the result of intelligent effort."*
