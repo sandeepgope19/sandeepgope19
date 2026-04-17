@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Gope</h1>
-<h3 align="center">🚀 Trainee Test Engineer | Automation Enthusiast | Quality First Mindset</h3>
+<h3 align="center">🚀 Software Test Engineer | Automation Enthusiast | Quality First Mindset</h3>
 
 ---
 
