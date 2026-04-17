@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- 👨‍💻 Working as **Trainee Test Engineer**
+- 👨‍💻 Working as **Software Test Engineer**
 - 🔍 Skilled in **Manual Testing, Automation Testing & API Testing**
 - 🌱 Currently learning **Advanced Selenium Frameworks**
 - 🎯 Goal: Become a **Top SDET Engineer**
