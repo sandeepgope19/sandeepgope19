@@ -60,13 +60,26 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sandeep-gope-3b7a52296/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
-<a href="mailto:sandeepgope19@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
-<a href="https://www.instagram.com/sann._.deep/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
-<a href="https://www.facebook.com/sannde.eep.3/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/sandeep-gope-3b7a52296/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+    Sandeep Gope
+  </a>
+  
+  <a href="mailto:sandeepgope19@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+    sandeepgope19@gmail.com
+  </a>
+  
+  <a href="https://www.instagram.com/sann._.deep/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
+    sann._.deep
+  </a>
+  
+  <a href="https://www.facebook.com/sannde.eep.3/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" width="40" />
+    Sandeep Gope
+  </a>
 </p>
-
 ---
 
 ## 🧩 Profile Views
