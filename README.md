@@ -6,7 +6,7 @@
 ## 🧠 About Me
 - 👨‍💻 Working as **Software Test Engineer**
 - 🔍 Skilled in **Manual Testing, Automation Testing & API Testing**
-- 🌱 Currently learning **Advanced Selenium Frameworks**
+- 🌱 Currently learning **API Testing with Rest Assured**
 - 🎯 Goal: Become a **Top SDET Engineer**
 - ⚡ Fun Fact: I enjoy finding bugs more than writing code 😄
 
@@ -21,7 +21,7 @@
 
 ### 🧪 Testing Skills
 - Manual Testing  
-- Automation Testing (Selenium + TestNG)  
+- Automation Testing (Selenium + TestNG + Cucumber BDD)  
 - API Testing (Postman)  
 - Cross-Browser Testing  
 - Page Object Model (POM)  
