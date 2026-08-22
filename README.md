@@ -76,7 +76,7 @@
   <a href="https://www.instagram.com/sandyy0615/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="25" style="vertical-align:middle;" />
   </a>
-  <span> sandyy0615</span>
+  <span> sandyyy0615</span>
   <br><br>
 
   <a href="https://www.facebook.com/sannde.eep.3/" target="_blank">
