@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep Gope</h1>
-<h3 align="center">🚀 Software Test Engineer | Automation Enthusiast | Quality First Mindset</h3>
+<h3 align="center">🚀 Trainee Test Engineer | Automation Enthusiast | Quality First Mindset</h3>
 
 ---
 
 ## 🧠 About Me
-- 👨‍💻 Working as **Software Test Engineer**
+- 👨‍💻 Working as **Trainee Test Engineer**
 - 🔍 Skilled in **Manual Testing, Automation Testing & API Testing**
 - 🌱 Currently learning **API Testing with Rest Assured**
 - 🎯 Goal: Become a **Top SDET Engineer**
@@ -67,16 +67,16 @@
   <span> Sandeep Gope</span>
   <br><br>
 
-  <a href="mailto:sandeepgope19@gmail.com">
+  <a href="mailto:sandeepgopeofficial@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="25" style="vertical-align:middle;" />
   </a>
-  <span> sandeepgope19@gmail.com</span>
+  <span> sandeepgopeofficial@gmail.com</span>
   <br><br>
 
-  <a href="https://www.instagram.com/sann._.deep/" target="_blank">
+  <a href="https://www.instagram.com/sandyy0615/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="25" style="vertical-align:middle;" />
   </a>
-  <span> sann._.deep</span>
+  <span> sandyy0615</span>
   <br><br>
 
   <a href="https://www.facebook.com/sannde.eep.3/" target="_blank">
